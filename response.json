@@ -1,1 +1,3 @@
-{ "status": "Awesome!"}
+{ "status": "Awesome!",
+ "NAME": "QAtest"
+}
