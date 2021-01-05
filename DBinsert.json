@@ -1,0 +1,27 @@
+[
+  {
+    "CustomerID": 51,
+    "CustomerName": "Rabbitmq",
+    "ContactName": "RB"
+  },
+  {
+    "CustomerID": 52,
+    "CustomerName": "Snowflake",
+    "ContactName": "SN"
+  },
+  {
+    "CustomerID": 53,
+    "CustomerName": "Jira",
+    "ContactName": "JB"
+  },
+  {
+    "CustomerID": 54,
+    "CustomerName": "SAP",
+    "ContactName": "QA!"
+  },
+  {
+    "CustomerID": 55,
+    "CustomerName": "Workday",
+    "ContactName": "Wk"
+  }
+]
